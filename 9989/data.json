@@ -1,0 +1,74 @@
+{
+    "title": "MURMUR||SHOP",
+    "subtitle": "Добро пожаловать в магазин качества. Сохраните наш сайт чтобы никогда не потерять контакты магазина и не оплатить мошенникам.",
+    "footer": "Друзья, для добавления в наши чаты или каналы пишите оператору.\nАктуальные ссылки смотрите в разделах «Контакты MSK» и «SPB».",
+    "buttons": [
+        {
+            "id": "msk",
+            "name": "Контакты MSK",
+            "sections": [
+                {
+                    "title": "Боты МСК",
+                    "links": [
+                        { "name": "Бот №1 (Цены ниже)", "link": "https://example.com/bot1-msk" },
+                        { "name": "Бот №2",             "link": "https://example.com/bot2-msk" },
+                        { "name": "Бот №3 (Цены ниже)", "link": "https://example.com/bot3-msk" }
+                    ]
+                },
+                {
+                    "title": "Продажи MSK",
+                    "links": [
+                        { "name": "Оператор",                  "link": "https://example.com/op-msk" },
+                        { "name": "Тех. поддержка",            "link": "https://example.com/tech-msk" },
+                        { "name": "Оператор оптовых продаж",   "link": "https://example.com/wholesale-msk" },
+                        { "name": "Акции магазина",            "link": "https://example.com/promo-msk" },
+                        { "name": "Трудоустройство",           "link": "https://example.com/jobs-msk" },
+                        { "name": "Работа листовщиком",        "link": "https://example.com/flyer-msk" },
+                        { "name": "Оператор Продаж Element",   "link": "https://example.com/elem-op-msk" },
+                        { "name": "Тех. Поддержка Element",    "link": "https://example.com/elem-tech-msk" }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "intro",
+            "name": "Приложение Murmur",
+            "sections": [
+                {
+                    "title": "Приложение Murmur",
+                    "links": [
+                        { "name": "Приложение", "link": "https://example.com/app" },
+                        { "name": "Инструкция", "link": "https://example.com/instruction" }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "spb",
+            "name": "Контакты SPB",
+            "sections": [
+                {
+                    "title": "Боты SPB",
+                    "links": [
+                        { "name": "Бот №1 (Цены ниже)", "link": "https://example.com/bot1-spb" },
+                        { "name": "Бот №2",             "link": "https://example.com/bot2-spb" },
+                        { "name": "Бот №3 (Цены ниже)", "link": "https://example.com/bot3-spb" }
+                    ]
+                },
+                {
+                    "title": "Продажи SPB",
+                    "links": [
+                        { "name": "Оператор",                "link": "https://example.com/op-spb" },
+                        { "name": "Тех. поддержка",          "link": "https://example.com/tech-spb" },
+                        { "name": "Оператор оптовых продаж", "link": "https://example.com/wholesale-spb" },
+                        { "name": "Акции магазина",          "link": "https://example.com/promo-spb" },
+                        { "name": "Трудоустройство(Вход с VPN)", "link": "https://example.com/jobs-spb" },
+                        { "name": "Работа листовщиком",      "link": "https://example.com/flyer-spb" },
+                        { "name": "Element",                 "link": "https://example.com/element-spb" },
+                        { "name": "Тех. Поддержка Element",  "link": "https://example.com/elem-tech-spb" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
