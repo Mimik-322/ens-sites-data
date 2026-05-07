@@ -1,0 +1,13 @@
+{
+    "title": "VISHNYA NANI",
+    "buttons": [
+        { "name": "Бот 1",                "link": "https:\/\/example.com\/bot1" },
+        { "name": "Бот 2",                "link": "https:\/\/example.com\/bot2" },
+        { "name": "Оператор",             "link": "https:\/\/example.com\/op" },
+        { "name": "Тех.поддержка",        "link": "https:\/\/example.com\/tech" },
+        { "name": "Трудоустройство",      "link": "https:\/\/example.com\/jobs" },
+        { "name": "Работа листовщиком",   "link": "https:\/\/example.com\/flyer" },
+        { "name": "Element продаж",       "link": "https:\/\/example.com\/elem-op" },
+        { "name": "Element Тех Поддержки","link": "https:\/\/example.com\/elem-tech" }
+    ]
+}
