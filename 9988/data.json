@@ -21,7 +21,17 @@
         {
             "name": "Контакты СПБ",
             "id": "",
-            "link": "https://example.com/spb"
+            "sections": [
+                {
+                    "title": "Контакты СПБ",
+                    "links": [
+                        {
+                            "name": "1",
+                            "link": "ya.ru"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "ПРИЛОЖЕНИЕ",
