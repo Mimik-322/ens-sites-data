@@ -1,12 +1,22 @@
 {
     "title": "",
     "subtitle": "",
-    "footer": "hhhhhhh",
+    "footer": "",
     "buttons": [
         {
-            "name": "Контакты МСК sdasdfasd",
+            "name": "Контакты МСК",
             "id": "",
-            "link": "https://example.com/msk"
+            "sections": [
+                {
+                    "title": "Оператор МСК",
+                    "links": [
+                        {
+                            "name": "Оператор МСК",
+                            "link": "https://t.me/cr24_7"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Контакты СПБ",
