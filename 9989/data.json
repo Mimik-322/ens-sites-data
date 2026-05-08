@@ -4,68 +4,140 @@
     "footer": "Друзья, для добавления в наши чаты или каналы пишите оператору.\nАктуальные ссылки смотрите в разделах «Контакты MSK» и «SPB».",
     "buttons": [
         {
-            "id": "msk",
             "name": "Контакты MSK",
+            "id": "msk",
             "sections": [
                 {
                     "title": "Боты МСК",
                     "links": [
-                        { "name": "Бот №1 (Цены ниже)", "link": "https://example.com/bot1-msk" },
-                        { "name": "Бот №2",             "link": "https://example.com/bot2-msk" },
-                        { "name": "Бот №3 (Цены ниже)", "link": "https://example.com/bot3-msk" }
+                        {
+                            "name": "Бот №1 (Цены ниже)",
+                            "link": "https://t.me/broNW43378753bot_bot"
+                        },
+                        {
+                            "name": "Бот №2",
+                            "link": "https://t.me/nw4365634brrcbot_bot"
+                        },
+                        {
+                            "name": "Бот №3 (Цены ниже)",
+                            "link": "https://t.me/new564sd7dsghf6756brobot_bot"
+                        }
                     ]
                 },
                 {
                     "title": "Продажи MSK",
                     "links": [
-                        { "name": "Оператор",                  "link": "https://example.com/op-msk" },
-                        { "name": "Тех. поддержка",            "link": "https://example.com/tech-msk" },
-                        { "name": "Оператор оптовых продаж",   "link": "https://example.com/wholesale-msk" },
-                        { "name": "Акции магазина",            "link": "https://example.com/promo-msk" },
-                        { "name": "Трудоустройство",           "link": "https://example.com/jobs-msk" },
-                        { "name": "Работа листовщиком",        "link": "https://example.com/flyer-msk" },
-                        { "name": "Оператор Продаж Element",   "link": "https://example.com/elem-op-msk" },
-                        { "name": "Тех. Поддержка Element",    "link": "https://example.com/elem-tech-msk" }
+                        {
+                            "name": "Оператор",
+                            "link": "https://t.me/topM_MBro137"
+                        },
+                        {
+                            "name": "Тех. поддержка",
+                            "link": "https://t.me/Myr_supp11"
+                        },
+                        {
+                            "name": "Оператор оптовых продаж",
+                            "link": "https://t.me/topM_MBro137"
+                        },
+                        {
+                            "name": "Акции магазина",
+                            "link": "https://telegra.ph/Akcii-MSK-12-18"
+                        },
+                        {
+                            "name": "Трудоустройство",
+                            "link": "https://t.me/murshop"
+                        },
+                        {
+                            "name": "Работа листовщиком",
+                            "link": "https://t.me/ok_797"
+                        },
+                        {
+                            "name": "Оператор Продаж Element",
+                            "link": "https://matrix.to/#/@murshopoperator:matrix.org"
+                        },
+                        {
+                            "name": "Тех. Поддержка Element",
+                            "link": "https://matrix.to/#/@supp_bro:matrix.org"
+                        }
                     ]
                 }
             ]
         },
         {
-            "id": "intro",
             "name": "Приложение Murmur",
+            "id": "intro",
             "sections": [
                 {
                     "title": "Приложение Murmur",
                     "links": [
-                        { "name": "Приложение", "link": "https://example.com/app" },
-                        { "name": "Инструкция", "link": "https://example.com/instruction" }
+                        {
+                            "name": "Приложение",
+                            "link": "https://mur24.vip/MurMur.apk"
+                        },
+                        {
+                            "name": "Инструкция",
+                            "link": "https://telegra.ph/Prilozhenie-MurMur-03-03"
+                        }
                     ]
                 }
             ]
         },
         {
-            "id": "spb",
             "name": "Контакты SPB",
+            "id": "spb",
             "sections": [
                 {
                     "title": "Боты SPB",
                     "links": [
-                        { "name": "Бот №1 (Цены ниже)", "link": "https://example.com/bot1-spb" },
-                        { "name": "Бот №2",             "link": "https://example.com/bot2-spb" },
-                        { "name": "Бот №3 (Цены ниже)", "link": "https://example.com/bot3-spb" }
+                        {
+                            "name": "Бот №1 (Цены ниже)",
+                            "link": "https://t.me/RTRPP90UYU8771_bot"
+                        },
+                        {
+                            "name": "Бот №2",
+                            "link": "https://t.me/RREEWTTY98652_bot"
+                        },
+                        {
+                            "name": "Бот №3 (Цены ниже)",
+                            "link": "https://t.me/mm87333593_bot"
+                        }
                     ]
                 },
                 {
                     "title": "Продажи SPB",
                     "links": [
-                        { "name": "Оператор",                "link": "https://example.com/op-spb" },
-                        { "name": "Тех. поддержка",          "link": "https://example.com/tech-spb" },
-                        { "name": "Оператор оптовых продаж", "link": "https://example.com/wholesale-spb" },
-                        { "name": "Акции магазина",          "link": "https://example.com/promo-spb" },
-                        { "name": "Трудоустройство(Вход с VPN)", "link": "https://example.com/jobs-spb" },
-                        { "name": "Работа листовщиком",      "link": "https://example.com/flyer-spb" },
-                        { "name": "Element",                 "link": "https://example.com/element-spb" },
-                        { "name": "Тех. Поддержка Element",  "link": "https://example.com/elem-tech-spb" }
+                        {
+                            "name": "Оператор",
+                            "link": "https://t.me/mm78spb"
+                        },
+                        {
+                            "name": "Тех. поддержка",
+                            "link": "https://t.me/MM_Sup_SPB"
+                        },
+                        {
+                            "name": "Оператор оптовых продаж",
+                            "link": "https://t.me/mm78spb"
+                        },
+                        {
+                            "name": "Акции магазина",
+                            "link": "https://telegra.ph/-04-03-3671"
+                        },
+                        {
+                            "name": "Трудоустройство(Вход с VPN)",
+                            "link": "https://24-wrk.vip/"
+                        },
+                        {
+                            "name": "Работа листовщиком",
+                            "link": "https://t.me/murshop"
+                        },
+                        {
+                            "name": "Element",
+                            "link": "https://matrix.to/#/@murspb:matrix.org"
+                        },
+                        {
+                            "name": "Тех. Поддержка Element",
+                            "link": "https://matrix.to/#/@supp_spb:matrix.org"
+                        }
                     ]
                 }
             ]
