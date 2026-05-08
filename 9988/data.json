@@ -6,17 +6,7 @@
         {
             "name": "Контакты МСК",
             "id": "",
-            "sections": [
-                {
-                    "title": "Оператор МСК",
-                    "links": [
-                        {
-                            "name": "https://t.me/cr24_7",
-                            "link": "https://t.me/cr24_7"
-                        }
-                    ]
-                }
-            ]
+            "link": "https://t.me/cr24_7"
         },
         {
             "name": "Контакты СПБ",
