@@ -1,5 +1,5 @@
 {
-    "title": "",
+    "title": "CROWN SHOP",
     "subtitle": "",
     "footer": "",
     "buttons": [
@@ -13,6 +13,46 @@
                         {
                             "name": "Оператор",
                             "link": "https://t.me/cr24_7"
+                        },
+                        {
+                            "name": "Оптовые продажи",
+                            "link": "https://t.me/cr24_7"
+                        },
+                        {
+                            "name": "Тех",
+                            "link": "https://t.me/CR_M22_supp"
+                        },
+                        {
+                            "name": "Бот 1",
+                            "link": "https://t.me/Cr_oliver_Bot"
+                        },
+                        {
+                            "name": "Бот 2",
+                            "link": "https://t.me/Marya_CR_BOT"
+                        },
+                        {
+                            "name": "Бот 3",
+                            "link": "https://t.me/Madam_crbot"
+                        },
+                        {
+                            "name": "Работа",
+                            "link": "https://crown247.vip"
+                        },
+                        {
+                            "name": "Листовки",
+                            "link": "https://t.me/i_tex"
+                        },
+                        {
+                            "name": "Наши Акции",
+                            "link": "https://telegra.ph/-02-22-27100"
+                        },
+                        {
+                            "name": "Оператор Element",
+                            "link": "https://matrix.to/#/@crownshopoperator:matrix.org"
+                        },
+                        {
+                            "name": "Тех Element",
+                            "link": "https://matrix.to/#/@crown_supp:matrix.org"
                         }
                     ]
                 }
@@ -26,22 +66,58 @@
                     "title": "Контакты СПБ",
                     "links": [
                         {
-                            "name": "1",
-                            "link": "ya.ru"
+                            "name": "Оператор",
+                            "link": "https://t.me/crwn247spb"
+                        },
+                        {
+                            "name": "Оптовые продажи",
+                            "link": "https://t.me/crwn247spb"
+                        },
+                        {
+                            "name": "Тех",
+                            "link": "https://t.me/suppspb1"
+                        },
+                        {
+                            "name": "Бот 1",
+                            "link": "https://t.me/gfhddld_bot"
+                        },
+                        {
+                            "name": "Бот 2",
+                            "link": "https://t.me/gabddar_bot"
+                        },
+                        {
+                            "name": "Работа",
+                            "link": "https://crown247.vip/"
+                        },
+                        {
+                            "name": "Листовки",
+                            "link": "https://t.me/crown_owner"
+                        },
+                        {
+                            "name": "Наши Акции",
+                            "link": "https://telegra.ph/AKCII-CROWN-06-10"
+                        },
+                        {
+                            "name": "Оператор Element",
+                            "link": "https://matrix.to/#/@crownspboperator:matrix.org"
+                        },
+                        {
+                            "name": "Тех Element",
+                            "link": "https://matrix.to/#/@crown_supp:matrix.org"
                         }
                     ]
                 }
             ]
         },
         {
-            "name": "ПРИЛОЖЕНИЕ",
+            "name": "Приложение",
             "id": "",
-            "link": "https://example.com/app"
+            "link": ""
         },
         {
-            "name": "Element Мессенджер",
+            "name": "ELEMENT",
             "id": "",
-            "link": "https://element.io"
+            "link": "https://matrix.to/#/@crownspboperator:matrix.org"
         }
     ]
 }
