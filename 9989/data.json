@@ -68,19 +68,15 @@
             ]
         },
         {
-            "name": "Приложение Murmur",
+            "name": "Сайт продаж",
             "id": "intro",
             "sections": [
                 {
-                    "title": "Приложение Murmur",
+                    "title": "Сайт продаж",
                     "links": [
                         {
-                            "name": "Приложение",
-                            "link": "https://mur24.vip/MurMur.apk"
-                        },
-                        {
-                            "name": "Инструкция",
-                            "link": "https://telegra.ph/Prilozhenie-MurMur-03-03"
+                            "name": "Сайт продаж",
+                            "link": "https://murmur24.cc"
                         }
                     ]
                 }
