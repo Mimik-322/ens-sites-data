@@ -68,15 +68,15 @@
             ]
         },
         {
-            "name": "Сайт продаж",
+            "name": "Сайт продаж Murmur",
             "id": "intro",
             "sections": [
                 {
-                    "title": "Сайт продаж",
+                    "title": "Приложение Murmur",
                     "links": [
                         {
-                            "name": "Сайт продаж",
-                            "link": "https://murmur24.cc"
+                            "name": "Сайт продаж Murmur",
+                            "link": "https://murmur24.cc/"
                         }
                     ]
                 }
