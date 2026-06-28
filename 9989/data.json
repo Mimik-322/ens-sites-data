@@ -68,21 +68,6 @@
             ]
         },
         {
-            "name": "Сайт продаж Murmur",
-            "id": "intro",
-            "sections": [
-                {
-                    "title": "Сайт продаж Murmur",
-                    "links": [
-                        {
-                            "name": "Сайт продаж Murmur",
-                            "link": "https://murmur24.cc/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Контакты SPB",
             "id": "spb",
             "sections": [
