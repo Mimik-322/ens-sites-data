@@ -5,7 +5,7 @@
     "buttons": [
         {
             "name": "Контакты МСК",
-            "id": "#msk",
+            "id": "",
             "sections": [
                 {
                     "title": "Контакты мск",
