@@ -1,1 +1,30 @@
-
+{
+    "title": "АДЖИКА SHOP",
+    "subtitle": "simply the best",
+    "buttons": [
+        {
+            "name": "ოპერატორი / Operator",
+            "link": ""
+        },
+        {
+            "name": "მხარდაჭერა / Support",
+            "link": ""
+        },
+        {
+            "name": "ბოტ 24/7 / Bot 24/7",
+            "link": ""
+        },
+        {
+            "name": "ჩანელი / Channel",
+            "link": ""
+        },
+        {
+            "name": "სამუშაო / Work",
+            "link": ""
+        },
+        {
+            "name": "გაცვლა / Exchange Bit Geo",
+            "link": ""
+        }
+    ]
+}
